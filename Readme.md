@@ -4,8 +4,8 @@
 </div>
 
 ## Tugas Desain Perangkat Lunak
-
-## Anggota Team:
+Kelas: D4 Rekayasa Perangkat Lunak 2B
+Anggota Team:
 <ol>
     <li>Sahanatur Riski</li>
     <li>Bima Ryan Alfarizi</li>
