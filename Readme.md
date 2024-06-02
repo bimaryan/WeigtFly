@@ -1,8 +1,9 @@
 <h1 align="center">Flyweight</h1>
+<img src="https://media.giphy.com/media/b5Hcaz7EPz26I/giphy.gif"/>
 
-Tugas Desain Perangkat Lunak
+## Tugas Desain Perangkat Lunak
 
-Anggota Team:
+## Anggota Team:
 <ol>
     <li>Sahanatur Riski</li>
     <li>Bima Ryan Alfarizi</li>
